@@ -8,7 +8,7 @@ Conscientizar a população, através de um site com interface flexível e com f
 à tecnologia pode contribuir para a sustentabilidade, garantindo o bem-estar das pessoas.
 
 # Objetivos Específicos:
-- Difundir informações sobre as técnicas agrícolas que promovam a preservação ambiental e o uso responsável dos recursos naturais;
+- Difundir informações sobre as técnicas agrícolas que promovem a preservação ambiental e o uso responsável dos recursos naturais;
 - Incentivar a aplicação de métodos de produção conciliados com uso de matrizes energéticas renováveis e limpas;
 - Refletir sobre a importância do Agro sustentável para o presente e o futuro;
 - Aplicar os conhecimentos de programação e de design para desenvolver um site acessível e informativo sobre Agro Sustentável.
