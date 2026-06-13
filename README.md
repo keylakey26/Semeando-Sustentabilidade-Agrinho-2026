@@ -1,19 +1,19 @@
 # Semeando Sustentabilidade / Agrinho-2026
 
-# Descrição do projeto
+# Descrição do Projeto
 Semeando Sustentabilidade apresenta de forma pedagógica e didática temas que envolvem agro forte, visando valorizar e difundir a agricultura sustentável por meio de tópicos textuais, vídeo e quiz, além de possuir diversas ferramentas de acessibilidade.
 
 # Objetivo do Projeto: 
 Conscientizar a população, através de um site com interface flexível e com ferramentas de acessibilidade, como o agro aliado 
 à tecnologia pode contribuir para a sustentabilidade, garantindo o bem-estar das pessoas.
 
-# Objetivos específicos:
+# Objetivos Específicos:
 - Difundir informações sobre as técnicas agrícolas que promovam a preservação ambiental e o uso responsável dos recursos naturais;
 - Incentivar a aplicação de métodos de produção conciliados com uso de matrizes energéticas renováveis e limpas;
 - Refletir sobre a importância do Agro sustentável para o presente e o futuro;
 - Aplicar os conhecimentos de programação e de design para desenvolver um site acessível e informativo sobre Agro Sustentável.
 
-# Tópicos abordados:
+# Tópicos Abordados:
 - Agro sustentável;
 - 3 Pilares;
 - Técnicas Agrícolas Sustentáveis;
@@ -33,7 +33,7 @@ Conscientizar a população, através de um site com interface flexível e com f
 - Adaptável à diversos formatos de tela
 - Informações com ilustrações autorais   
 
-# Linguagens utilizadas
+# Linguagens Utilizadas
 - Estrutura: HTML
 - Estilização: CSS
 - Script: Java
