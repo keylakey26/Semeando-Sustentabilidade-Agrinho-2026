@@ -1,7 +1,7 @@
 # Semeando Sustentabilidade / Agrinho-2026
 
 ## Descrição do Projeto
-Semeando Sustentabilidade apresenta de forma pedagógica e didática temas que envolvem agro forte, visando valorizar e difundir a agricultura sustentável por meio de tópicos textuais, vídeo e quiz, além de possuir diversas ferramentas de acessibilidade.
+Semeando Sustentabilidade apresenta de forma pedagógica e didática temas que envolvem agro forte, visando valorizar e difundir a agricultura sustentável mediante tópicos textuais, vídeo e quiz, além de possuir diversas ferramentas de acessibilidade.
 
 ## Objetivo do Projeto: 
 Conscientizar a população, por meio de um site com interface flexível e com ferramentas de acessibilidade, como o agro aliado 
