@@ -13,6 +13,19 @@ Conscientizar a população, por meio de um site com interface flexível e com f
 - Refletir sobre a importância do Agro sustentável para o presente e o futuro;
 - Aplicar os conhecimentos de programação e de design para desenvolver um site acessível e informativo sobre Agro Sustentável.
 
+## Instruções de uso do site:
+- Ao acessar o site, deslize a tela para acessar o índice;
+- Para regular o tamanho da fonte clique nos botões “A+” e “A-”, para facilitar a sua leitura;
+- Escolha entre o Tema Claro e o Tema Escuro para alterar a cor de fundo da página conforme sua preferência ;
+- Navegue pelos tópicos usando o índice que te levará direto para o texto de interesse; 
+- Em cada tópico haverá um texto com leitura oral (áudio) e uma ilustração interativa (ao selecioná-la ela será aberta em uma nova guia, favorecendo a visualização), objetivando melhor entendimento do conteúdo;
+- Nos tópicos “Técnicas Agrícolas Sustentáveis” e “Energia Renovável” clique sobre os subtópicos para encontrar informações adicionais, para ocultá-las, clique novamente no mesmo subtópico;
+- Assista o vídeo legendado com interpretação em libras, caso ele não seja reproduzido, utilize o link para acessá-lo no YouTube;
+- Para realizar o quiz, escreva e envie o seu nome após isso as perguntas aparecerão, quando terminar de preencher seu gabarito selecione "Finalizar Quiz" para visualizar seu resultado;
+- As melhores pontuações serão registradas no pódio;
+- Consulte os dados sobre o site no rodapé da página.
+
+
 ## Tópicos Abordados:
 - Agro sustentável;
 - 3 Pilares;
