@@ -312,6 +312,7 @@ footer p{
     background-color: #4caf50;
 }
 
+/*quiz*/
 #quiz{
     margin-top: 40px;
     text-align: center;
@@ -337,6 +338,7 @@ footer p{
     background-color: #4caf50;
 }
 
+/*perguntas do quiz*/
 .pergunta{
     margin-bottom: 30px;
     padding: 20px;
@@ -354,7 +356,7 @@ footer p{
     font-size: 1.2em;
     margin-bottom: 15px;
 }
-
+/*podio do quiz*/
 #podio{
     display: inline-block;
     text-align: left;
