@@ -1,3 +1,4 @@
+//muda o tamanho da fonte
 let tamanhoFonte = 100;
 
 function aumentarFonte(){
@@ -10,6 +11,7 @@ function diminuirFonte(){
     document.body.style.fontSize = tamanhoFonte + "%";
 }
 
+//tema claro ou escuro
 function temaClaro() {
     document.body.classList.remove("tema-escuro");
 }
@@ -18,6 +20,7 @@ function temaEscuro() {
     document.body.classList.add("tema-escuro");
 }
 
+// subtópicos
 const subtopicos = document.querySelectorAll(".subtopico");
 
 subtopicos.forEach(botao => {
@@ -35,6 +38,8 @@ subtopicos.forEach(botao => {
     });
 
 });
+
+//quiz
 
 function iniciarQuiz(){
 
@@ -54,6 +59,8 @@ function iniciarQuiz(){
     document.getElementById("nome").disabled = true;
 }
 
+//corrigir gabarito do quiz
+
 function corrigirQuiz(){
 
     let pontos = 0;
@@ -68,7 +75,7 @@ function corrigirQuiz(){
 
     document.getElementById("resultado").innerHTML =
         nome + " acertou " + pontos + " de 5 questões!";
-
+// organizar o ranking
     let ranking =
         JSON.parse(localStorage.getItem("ranking")) || [];
 
@@ -85,7 +92,7 @@ function corrigirQuiz(){
         "ranking",
         JSON.stringify(ranking)
     );
-
+// podio
     mostrarPodio();
 }
 
